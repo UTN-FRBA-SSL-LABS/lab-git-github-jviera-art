@@ -89,7 +89,19 @@ RESPUESTA_PX=b
 |---|---|---|
 | ❌ | `RESPUESTA_P1= b` | hay un espacio antes de la letra |
 | ❌ | `RESPUESTA_P1=B` | la letra debe ser minúscula |
-| ❌ | `RESPUESTA_P1=b)` | no va el paréntesis |
+| ❌ | `
+
+
+
+
+
+
+
+
+
+
+
+RESPUESTA_P1=b)` | no va el paréntesis |
 | ❌ | `RESPUESTA_P1="b"` | no van comillas |
 | ✅ | `RESPUESTA_P1=b` | correcto |
 
@@ -287,7 +299,7 @@ c) Para que el historial de commits sea más corto y lineal
 d) Porque GitHub Classroom lo requiere para la corrección automática
 
 ```
-RESPUESTA_P1=
+RESPUESTA_P1=b
 ```
 
 ---
