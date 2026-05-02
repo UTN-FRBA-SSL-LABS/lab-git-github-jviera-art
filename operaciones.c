@@ -21,6 +21,10 @@ int multiplicar(int a, int b) {
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
-int esPar(int n) {
+nt esPar(int n) {
+<<<<<<< HEAD
     return (n % 2) == 0; /* version main actualizada */
+=======
+    return (n & 1) == 0;
+>>>>>>> origin/feature/conflicto-demo
 }
